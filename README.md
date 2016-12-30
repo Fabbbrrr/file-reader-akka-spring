@@ -1,4 +1,4 @@
-# file-reader
+# file-reader-akka-spring
 
 This is a very small akka application to demonstrate how to create an akka system, actors, cross actor communication
 and message processing. It also includes one synchronous call (ask) and a few asynchronous calls (tell).
